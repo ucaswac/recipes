@@ -3,6 +3,7 @@
 -lime
 -onions
 -salt
+-coriander
 
 # Instructions
 
